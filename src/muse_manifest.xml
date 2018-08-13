@@ -1,0 +1,36 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ctipsvn.xyz" resolutions="1x" timestamp="1533804591042">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="225353374" ref="index"/>
+    <file name="index.css" crc="3928932039" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="asset 1@5x.jpg" crc="4265186600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 3@5x.png" crc="490267488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 6@5x.png" crc="3808088117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2@5x-crop-u156.png" crc="502753112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 7@5x.png" crc="266307784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4@5x.png" crc="46360740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3958620250" seo="true" mt="1533804580538" redirect="true"/>
+</manifest>

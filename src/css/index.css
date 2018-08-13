@@ -1,0 +1,128 @@
+.version.index {
+  color: #0000ea;
+  background-color: #2ebec7;
+}
+#page {
+  z-index: 1;
+  min-height: 659px;
+  background-image: none;
+  border-width: 0px;
+  border-color: #000000;
+  background-color: transparent;
+  width: 100%;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#u114 {
+  z-index: 2;
+  position: relative;
+  margin-right: -10000px;
+  width: 100%;
+}
+#u136 {
+  z-index: 4;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 9px;
+  width: 31.25%;
+  margin-left: 34.38%;
+  left: 0px;
+}
+#u146 {
+  z-index: 6;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 458px;
+  width: 62.5%;
+  margin-left: 18.75%;
+  left: 0px;
+}
+#u156 {
+  z-index: 8;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 142px;
+  width: 31.25%;
+  left: 34.48%;
+}
+#u166 {
+  cursor:pointer;
+  z-index: 10;
+  background-color: transparent;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 444px;
+  width: 19.28%;
+  left: 40.42%;
+}
+#u176-3 {
+  z-index: 12;
+  min-height: 91px;
+  background-color: transparent;
+  font-size: 18px;
+  line-height: 22px;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 269px;
+  width: 72.4%;
+  margin-left: 13.81%;
+  left: 1px;
+}
+#u192 {
+    cursor:pointer;
+  z-index: 15;
+  border-width: 0px;
+  border-color: transparent;
+  background-color: transparent;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 367px;
+  width: 24.59%;
+  left: 37.71%;
+}
+#u179 {
+  z-index: 16;
+  background-color: transparent;
+  position: relative;
+  margin-right: -10000px;
+  width: 100%;
+}
+#u189-4 {
+  z-index: 18;
+  min-height: 31px;
+  background-color: transparent;
+  text-transform: uppercase;
+  line-height: 28px;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 16px;
+  width: 78.39%;
+  left: 11.02%;
+}
+
+#tay{
+    cursor:pointer;
+}
+.css_verticalspacer .verticalspacer {
+  height: calc(100vh - 660px);
+}
+#muse_css_mq,
+.html {
+  background-color: #ffffff;
+}
+body {
+  position: relative;
+  min-width: 320px;
+}
+#u166_img,
+#u179_img,
+#u114_img,
+#u136_img,
+#u146_img,
+#u156_img {
+  width: 100%;
+}
